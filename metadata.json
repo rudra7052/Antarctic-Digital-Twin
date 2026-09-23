@@ -1,0 +1,6 @@
+{
+  "name": "Antarctic Digital Twin",
+  "description": "Real-time Antarctic research station digital twin platform with 3D/GIS polar mapping, resource depletion forecasting, equipment health telemetry, cascading risk assessment, and AI copilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
